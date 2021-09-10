@@ -1,0 +1,15 @@
+#algoritma
+Function main 
+        Declare integer f, c, r
+
+        Output "mencari konversi nilai dari suhu Fahrenheit"
+        Output "masukkan nilai suhu Fahrenheit"
+        Input f
+        Assign c = (9/5 * f) + 32
+        Assign r = 4/5*c
+        Output "konversi suhu Fahrenheit = "&c &"c"
+        Output "konversi suhu Fahrenheit = "&r &"r"
+End
+
+
+        
